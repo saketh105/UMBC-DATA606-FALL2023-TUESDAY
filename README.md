@@ -18,9 +18,9 @@
 ## Masters : Data Science *(current)*, UMBC(2022-), *Baltimore*
 
 ## Projects
-- [WORLD DEVELOPMENT EXPLORER](https://github.com/saketh105/Data690/tree/main/WORLD%20DEVELOPMENT%20EXPLORER)
-- [Analysis and Prediction of aircraft accident severity Aug 2022-Dec 2022 ]
-- [Skin disease identification using Image Processing	Jan 2021-Mar 2021]
+- [WORLD DEVELOPMENT EXPLORER](https://github.com/saketh105/Data690/blob/main/WORLD%20DEVELOPMENT%20EXPLORER/PART_A.md)
+- *Analysis and Prediction of aircraft accident severity Aug 2022-Dec 2022*
+- *Skin disease identification using Image Processing	Jan 2021-Mar 2021*
 
 
 # Sports:
