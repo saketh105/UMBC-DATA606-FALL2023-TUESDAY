@@ -3,12 +3,12 @@
 ## Summary
 *Current data science graduate student with hands-on experience in analyzing large datasets, creating predictive models, and visualizing insights. Skilled in using Python and its data science libraries such as Pandas, NumPy and Matplotlib. Adept in designing and conducting experiments, and presenting findings in a clear and concise manner. Seeking a data analyst role in a fast-paced and dynamic environment.*
 
-# Name :*Saketh Reddy*
-# Date of birth :*March 05 2000*
-# Place of Birth :*Hyderabad, India*
-# Age :*23*
-# Nationality :*Indian*
-# Gender :*Male*
+-Name :*Saketh Reddy*
+-Date of birth :*March 05 2000*
+-Place of Birth :*Hyderabad, India*
+-Age :*23*
+-Nationality :*Indian*
+-Gender :*Male*
 
 # Contact Details
 - House : *4755 Aldgate green, Halethorpe, 21227, Md*
@@ -36,15 +36,15 @@
 3. *Skin disease identification using Image Processing	Jan 2021-Mar 2021*
 
 ## Certifications
-- **Certified Data Science course**
+1. **Certified Data Science course**
   - Data Science Certification, Unschool
   - Tenure: Jan 2021-July 2021
-
-- **Internet of Things**
+    
+2.  **Internet of Things**
   - Indexes                   
   - Tenure: Febuary 2019
     
-- **Python**
+3. **Python**
   - Webtek labs             
   - Tenure: Sep 2019 - Oct 2019
     
@@ -57,4 +57,4 @@
 - *Telugu, Hindi, English, French(level3))*
 
 # Hobbies:
-## *bird watching, mountaineering, hiking, swimming*
+- *bird watching, mountaineering, hiking, swimming*
