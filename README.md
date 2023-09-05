@@ -3,12 +3,12 @@
 ## Summary
 *Current data science graduate student with hands-on experience in analyzing large datasets, creating predictive models, and visualizing insights. Skilled in using Python and its data science libraries such as Pandas, NumPy and Matplotlib. Adept in designing and conducting experiments, and presenting findings in a clear and concise manner. Seeking a data analyst role in a fast-paced and dynamic environment.*
 
--Name :*Saketh Reddy*
--Date of birth :*March 05 2000*
--Place of Birth :*Hyderabad, India*
--Age :*23*
--Nationality :*Indian*
--Gender :*Male*
+- Name :*Saketh Reddy*
+- Date of birth :*March 05 2000*
+- Place of Birth :*Hyderabad, India*
+- Age :*23*
+- Nationality :*Indian*
+- Gender :*Male*
 
 # Contact Details
 - House : *4755 Aldgate green, Halethorpe, 21227, Md*
