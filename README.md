@@ -18,7 +18,7 @@
 - **Master of Science in Data Science**
   - University of Maryland Baltimore County
   - Graduated: 2023*
-  - 
+  
 - **Bachelor of Science in Computer Science**
   - Malla reddy institute(2017-2021)
   - Graduated: May 2021, Hyderabad
