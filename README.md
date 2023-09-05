@@ -1,7 +1,7 @@
 # SAKETH REDDY MAGAM 
 ![SAKETH REDDY'S HEADSHOT](https://github.com/saketh105/saketh105/blob/main/IMG_E0720.JPG)
 ## Summary
-Enthusiastic data scientist with a passion for leveraging data-driven insights to solve complex problems. Experienced in machine learning, data analysis, and data visualization. Strong communicator and team player with a commitment to continuous learning.
+*Current data science graduate student with hands-on experience in analyzing large datasets, creating predictive models, and visualizing insights. Skilled in using Python and its data science libraries such as Pandas, NumPy and Matplotlib. Adept in designing and conducting experiments, and presenting findings in a clear and concise manner. Seeking a data analyst role in a fast-paced and dynamic environment.*
 
 # Name :*Saketh Reddy*
 # Date of birth :*March 05 2000*
@@ -35,7 +35,19 @@ Enthusiastic data scientist with a passion for leveraging data-driven insights t
 2. *Analysis and Prediction of aircraft accident severity Aug 2022-Dec 2022*
 3. *Skin disease identification using Image Processing	Jan 2021-Mar 2021*
 
+## Certifications
+- **Certified Data Science course**
+  - Data Science Certification, Unschool
+  - Tenure: Jan 2021-July 2021
 
+- **Internet of Things**
+  - Indexes                   
+  - Tenure: Febuary 2019
+    
+- **Python**
+  - Webtek labs             
+  - Tenure: Sep 2019 - Oct 2019
+    
 # Sports:
 1. *Cricket national player*
 2. *university football*
@@ -45,4 +57,4 @@ Enthusiastic data scientist with a passion for leveraging data-driven insights t
 - *Telugu, Hindi, English, French(level3))*
 
 # Hobbies:
-## *bird watching, mountaineering, hiking, swimming,(all of the adventure sports:))*
+## *bird watching, mountaineering, hiking, swimming*
