@@ -18,17 +18,20 @@
 - **Master of Science in Data Science**
   - University of Maryland Baltimore County
   - Graduated: 2023*
+  - CGPA: 3.717
   
 - **Bachelor of Science in Computer Science**
   - Malla reddy institute(2017-2021)
   - Graduated: May 2021, Hyderabad
-  - 
+  - CGPA: 7.63 (top 8% of the state)
 - **Intermediate**
   - Excellencia Jr college(2015-2017),Hyderabad
   - Maths Physics Chemistry (MPC)
+  - CGPA: 9.1
 
 - **School**:
   - Triveni school(2015),Hyderabad
+  - CGPA: 9.0
 
 ## Projects
 1. [WORLD DEVELOPMENT EXPLORER](https://github.com/saketh105/Data690/blob/main/WORLD%20DEVELOPMENT%20EXPLORER/PART_A.md)
